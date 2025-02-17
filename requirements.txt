@@ -1,0 +1,9 @@
+yfinance
+pandas
+streamlit
+matplotlib
+plotly
+langgraph
+langchain-core
+groq
+requests
